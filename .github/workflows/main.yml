@@ -9,7 +9,7 @@ no:
 
 jobs:
   build:
-    run-no: ubuntu-latest
+    run-on: ubuntu-latest
 
     steps:
       - name: 'Testing Github action'
